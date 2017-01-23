@@ -1,4 +1,4 @@
-# 201617_2nB_ESO
+# 201617_2nA_ESO
 
 Repositori projecte 2n ESO A fet per Daniel Trias
 
